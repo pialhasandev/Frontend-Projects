@@ -1,0 +1,1 @@
+This repository features a collection of my frontend development projects, including personal, practice, and real-world applications. It demonstrates my expertise in React, Tailwind CSS, and modern UI/UX principles, with a focus on clean design, performance, and responsive user experiences.
